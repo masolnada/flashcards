@@ -1,23 +1,19 @@
-+++
-title = "Getting Started"
-+++
+Q: What format does hashcards use for Q&A cards?
+A: `Q: question` on one line, `A: answer` on the next.
 
-## What format does hashcards use for frontmatter?
+Q: What format does hashcards use for cloze deletion cards?
+A: `C: text with [blanks] to fill in`
 
-TOML, delimited by `+++` blocks (not YAML `---`).
+Q: What algorithm does hashcards use for scheduling?
+A: FSRS — Free Spaced Repetition Scheduler.
 
-## What algorithm does hashcards use for scheduling?
+Q: What command starts the hashcards web interface?
+A: `hashcards drill [directory]`
 
-FSRS — Free Spaced Repetition Scheduler.
+Q: How do you add a new deck?
+A: Create a `.md` file with `Q:` / `A:` card pairs in any subdirectory.
 
-## What command starts the hashcards web interface?
+Q: What does spaced repetition mean?
+A: Cards you struggle with appear more often; cards you know well appear less often, optimising long-term retention.
 
-`hashcards drill [directory]`
-
-## How do you add a new deck?
-
-Create a `.md` file with `+++` TOML frontmatter and `## Question / Answer` pairs.
-
-## What does spaced repetition mean?
-
-Cards you struggle with appear more often; cards you know well appear less often, optimising long-term retention.
+C: [Hashcards] uses content-addressed identifiers to track cards across file renames.
