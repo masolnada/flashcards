@@ -25,9 +25,6 @@ A: A = 2π r h
 Q: Quin és el volum d'un cilindre de radi r i alçada h?
 A: V = π r² h
 
-Q: Quin és el volum d'un con de radi r i alçada h?
-A: V = (1/3)π r² h
-
 Q: Quin és el volum d'un cub de costat l?
 A: V = l³
 
