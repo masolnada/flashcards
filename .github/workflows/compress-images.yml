@@ -18,6 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Resize images
+        run: find cards -type f \( -name '*.jpg' -o -name '*.jpeg' -o -name '*.png' -o -name '*.webp' \) | xargs mogrify -resize '400x>'
+
       - uses: calibreapp/image-actions@main
         with:
           compressOnly: true
