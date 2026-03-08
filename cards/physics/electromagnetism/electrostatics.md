@@ -21,3 +21,18 @@ Q: Quina expressió descriu la força ($\vec{F}$) que experimenta un dipol elèc
 A: $\vec{F} = (\vec{p} \cdot \vec{\nabla}) \vec{E}$ 
 
 *(Aquesta expressió s'obté aplicant $\vec{F} = -\vec{\nabla} U$ a l'energia del dipol)*
+
+---
+
+Q: Què representa σ (sigma) en electrostàtica?
+A: La densitat superficial de càrrega: càrrega per unitat d'àrea [C/m²]. dQ = σ dA.
+
+---
+
+Q: Què representa λ (lambda) en electrostàtica?
+A: La densitat lineal de càrrega: càrrega per unitat de longitud [C/m]. dQ = λ dl.
+
+---
+
+Q: Què representa ρ (rho) en electrostàtica?
+A: La densitat volumètrica de càrrega: càrrega per unitat de volum [C/m³]. dQ = ρ dV.
