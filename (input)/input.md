@@ -29,8 +29,3 @@ A: El pendent ("Pendent").
 
 Q: Quines operacions indica la imatge per treballar amb el model exponencial?
 A: Divisió i logaritme neperià ("div + ln").
----
-# path: cards/mathematics/algebra/function_models.md
-
-Q: Quina operació indica la imatge per treballar amb el model logarítmic?
-A: La resta ("resta").
