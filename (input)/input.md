@@ -7,11 +7,6 @@ A: $P = mr + n$
 ---
 # path: cards/mathematics/algebra/function_models.md
 
-Q: Quina expressió defineix el model de funció "Exponencial" a la imatge?
-A: $P = Ae^{kr}$
----
-# path: cards/mathematics/algebra/function_models.md
-
 Q: Quina expressió defineix el model de funció "Logarítmica" a la imatge?
 A: $P = A + B \ln(r)$
 ---
