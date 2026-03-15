@@ -24,8 +24,3 @@ A: $\ln(P) = kr + \ln(A)$
 
 Q: Segons els apunts, quin concepte matemàtic s'associa directament al model lineal?
 A: El pendent ("Pendent").
----
-# path: cards/mathematics/algebra/function_models.md
-
-Q: Quines operacions indica la imatge per treballar amb el model exponencial?
-A: Divisió i logaritme neperià ("div + ln").
