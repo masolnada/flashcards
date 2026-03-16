@@ -7,13 +7,6 @@ A: $P = mr + n$
 ---
 # path: cards/plants/plant-recognition.md
 
-Q: Nom en **Català**?
-
-![](images/eruca-vesicaria.jpg)
-A: Eruga.
----
-# path: cards/plants/plant-recognition.md
-
 Q: Nom en **Llatí**?
 
 ![](images/eruca-vesicaria.jpg)
