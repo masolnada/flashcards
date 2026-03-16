@@ -31,11 +31,6 @@ A: Write or highlight the important text in red. The generator will prioritize c
 ---
 # path: cards/meta/command/help.md
 
-Q: What is the output format for the generated flashcards?
-A: A single JSON array, where each object represents a topic and contains the `filePath`, `deckName`, and a string of new `cards`.
----
-# path: cards/meta/command/help.md
-
 Q: What is the "atomic" rule for flashcards?
 A: Each card should cover only one single, discrete concept.
 ---
