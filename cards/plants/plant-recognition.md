@@ -70,3 +70,10 @@ Q: Nom en **Català**?
 
 ![](images/sambucus-nigra.jpg)
 A: Saüc.
+
+---
+
+Q: Nom en **Llatí**?
+
+![](images/sambucus-nigra.jpg)
+A: *Sambucus nigra*.
