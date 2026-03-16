@@ -42,3 +42,10 @@ Q: Nom en **Català**?
 
 ![](images/eruca-vesicaria.jpg)
 A: Ruca.
+
+---
+
+Q: Nom en **Llatí**?
+
+![](images/eruca-vesicaria.jpg)
+A: *Eruca vesicaria*.
