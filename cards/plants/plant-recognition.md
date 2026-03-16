@@ -7,3 +7,10 @@ Q: Quin és el nom llatí d'aquesta planta?
 
 ![](images/stachys-byzantina.jpg)
 A: *Stachys byzantina*.
+
+---
+
+Q: Nom en **Català**?
+
+![](images/geranium-rotundifolium.jpg)
+A: Suassana.
