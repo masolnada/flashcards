@@ -14,11 +14,6 @@ A: Use the `/remind` command followed by the time. Example: `/remind 6:40`.
 ---
 # path: cards/software/commands/reminders.md
 
-Q: How can you set a reminder relative to the current time, such as in 20 minutes?
-A: Use the `/remind` command with the preposition "in" followed by a duration. Example: `/remind in 20 minutes`.
----
-# path: cards/software/commands/reminders.md
-
 Q: How do you set a reminder for a different day, such as tomorrow?
 A: Specify the day after the time. Example: `/remind 9am tomorrow`.
 ---
