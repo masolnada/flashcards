@@ -21,3 +21,10 @@ Q: Nom en **Llatí**?
 
 ![](images/geranium-rotundifolium.jpg)
 A: *Geranium rotundifolium*.
+
+---
+
+Q: Nom en **Llatí**?
+
+![](images/marrubium-vulgare.jpg)
+A: *Marrubium vulgare*.
