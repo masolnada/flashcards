@@ -18,3 +18,17 @@ Q: Nom en **Llatí**?
 
 ![](images/geranium-robertianum.jpg)
 A: *Geranium robertianum*.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Català**?
+
+![](images/geranium-rotundifolium.jpg)
+A: Suassana.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Llatí**?
+
+![](images/geranium-rotundifolium.jpg)
+A: *Geranium rotundifolium*.
