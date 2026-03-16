@@ -63,3 +63,10 @@ Q: Nom en **Llatí**?
 
 ![](images/melissa-officinalis.jpg)
 A: *Melissa officinalis*.
+
+---
+
+Q: Nom en **Català**?
+
+![](images/sambucus-nigra.jpg)
+A: Saüc.
