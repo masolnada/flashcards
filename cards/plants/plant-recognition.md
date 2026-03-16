@@ -14,3 +14,10 @@ Q: Nom en **Català**?
 
 ![](images/geranium-rotundifolium.jpg)
 A: Suassana.
+
+---
+
+Q: Nom en **Llatí**?
+
+![](images/geranium-rotundifolium.jpg)
+A: *Geranium rotundifolium*.
