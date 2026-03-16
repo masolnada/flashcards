@@ -18,8 +18,3 @@ A: Use the `/remind` command followed by the time. Example: `/remind 6:40`.
 
 Q: What is the main purpose of this tool?
 A: To generate atomic Q&A flashcards from input text and a list of topics.
----
-# path: cards/meta/command/help.md
-
-Q: How can I emphasize certain concepts in the input text to ensure flashcards are created for them?
-A: Write or highlight the important text in red. The generator will prioritize creating cards for these concepts.
