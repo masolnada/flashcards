@@ -35,3 +35,10 @@ Q: Nom en **Català**?
 
 ![](images/marrubium-vulgare.jpg)
 A: Marrubí.
+
+---
+
+Q: Nom en **Català**?
+
+![](images/eruca-vesicaria.jpg)
+A: Ruca.
