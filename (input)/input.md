@@ -14,11 +14,6 @@ A: Use the `/remind` command followed by the time. Example: `/remind 6:40`.
 ---
 # path: cards/software/commands/reminders.md
 
-Q: How can you specify whether a time is in the morning or evening when setting a reminder?
-A: Add `am` or `pm` after the time. Example: `/remind 6:40pm`.
----
-# path: cards/software/commands/reminders.md
-
 Q: How can you set a reminder relative to the current time, such as in 20 minutes?
 A: Use the `/remind` command with the preposition "in" followed by a duration. Example: `/remind in 20 minutes`.
 ---
