@@ -28,8 +28,3 @@ A: Provide the existing cards for each topic. The generator will not create dupl
 
 Q: How can I emphasize certain concepts in the input text to ensure flashcards are created for them?
 A: Write or highlight the important text in red. The generator will prioritize creating cards for these concepts.
----
-# path: cards/meta/command/help.md
-
-Q: What is the "atomic" rule for flashcards?
-A: Each card should cover only one single, discrete concept.
