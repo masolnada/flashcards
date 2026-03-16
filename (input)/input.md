@@ -14,13 +14,6 @@ A: Use the `/remind` command followed by the time. Example: `/remind 6:40`.
 ---
 # path: cards/plants/plant-recognition.md
 
-Q: Nom en **Català**?
-
-![](images/sambucus-nigra.jpg)
-A: Saüc.
----
-# path: cards/plants/plant-recognition.md
-
 Q: Nom en **Llatí**?
 
 ![](images/sambucus-nigra.jpg)
