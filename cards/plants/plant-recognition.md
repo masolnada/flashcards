@@ -56,3 +56,10 @@ Q: Nom en **Català**?
 
 ![](images/melissa-officinalis.jpg)
 A: Tarongina.
+
+---
+
+Q: Nom en **Llatí**?
+
+![](images/melissa-officinalis.jpg)
+A: *Melissa officinalis*.
