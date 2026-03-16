@@ -11,10 +11,3 @@ Q: Nom en **Català**?
 
 ![](images/marrubium-vulgare.jpg)
 A: Marrubí.
----
-# path: cards/plants/plant-recognition.md
-
-Q: Nom en **Llatí**?
-
-![](images/marrubium-vulgare.jpg)
-A: *Marrubium vulgare*.
