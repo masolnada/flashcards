@@ -49,3 +49,10 @@ Q: Nom en **Llatí**?
 
 ![](images/eruca-vesicaria.jpg)
 A: *Eruca vesicaria*.
+
+---
+
+Q: Nom en **Català**?
+
+![](images/melissa-officinalis.jpg)
+A: Tarongina.
