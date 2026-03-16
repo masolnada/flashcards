@@ -21,11 +21,6 @@ A: To generate atomic Q&A flashcards from input text and a list of topics.
 ---
 # path: cards/meta/command/help.md
 
-Q: How do I provide the source material for generating flashcards?
-A: Paste the text, notes, or article content directly into the prompt.
----
-# path: cards/meta/command/help.md
-
 Q: How do I specify the topics for which flashcards should be generated?
 A: List them under a "Topics to generate cards for:" heading, with the format `Topic: [Deck Name] ([file/path/name.md])`.
 ---
