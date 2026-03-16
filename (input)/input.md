@@ -21,11 +21,6 @@ A: To generate atomic Q&A flashcards from input text and a list of topics.
 ---
 # path: cards/meta/command/help.md
 
-Q: How do I specify the topics for which flashcards should be generated?
-A: List them under a "Topics to generate cards for:" heading, with the format `Topic: [Deck Name] ([file/path/name.md])`.
----
-# path: cards/meta/command/help.md
-
 Q: How can I prevent the generator from creating cards for concepts I already have?
 A: Provide the existing cards for each topic. The generator will not create duplicates.
 ---
