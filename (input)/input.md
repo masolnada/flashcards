@@ -25,3 +25,17 @@ Q: Nom en **Llatí**?
 
 ![](images/sambucus-nigra.jpg)
 A: *Sambucus nigra*.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Català**?
+
+![](images/melissa-officinalis.jpg)
+A: Tarongina.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Llatí**?
+
+![](images/melissa-officinalis.jpg)
+A: *Melissa officinalis*.
