@@ -11,3 +11,17 @@ A: $P = mr + n$
 
 Q: How do you set a simple reminder for a specific time today?
 A: Use the `/remind` command followed by the time. Example: `/remind 6:40`.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Català**?
+
+![](images/sambucus-nigra.jpg)
+A: Saüc.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Llatí**?
+
+![](images/sambucus-nigra.jpg)
+A: *Sambucus nigra*.
