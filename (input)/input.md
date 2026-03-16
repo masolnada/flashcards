@@ -33,8 +33,3 @@ A: Write or highlight the important text in red. The generator will prioritize c
 
 Q: What is the "atomic" rule for flashcards?
 A: Each card should cover only one single, discrete concept.
----
-# path: cards/meta/command/help.md
-
-Q: What is the required format for an individual flashcard in the output?
-A: Each card must start with `---`, followed by a blank line, then `Q: ...` and `A: ...` on new lines.
