@@ -28,3 +28,10 @@ Q: Nom en **Llatí**?
 
 ![](images/marrubium-vulgare.jpg)
 A: *Marrubium vulgare*.
+
+---
+
+Q: Nom en **Català**?
+
+![](images/marrubium-vulgare.jpg)
+A: Marrubí.
