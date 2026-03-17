@@ -77,3 +77,10 @@ Q: Nom en **Llatí**?
 
 ![](images/sambucus-nigra.jpg)
 A: *Sambucus nigra*.
+
+---
+
+Q: Nom en **Llatí**?
+
+![](images/veronica-polita.jpg)
+A: *Veronica polita*.
