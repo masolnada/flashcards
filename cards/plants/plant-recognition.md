@@ -98,3 +98,10 @@ Q: Nom en **Llatí**?
 
 ![](images/caragana-arborescens.jpg)
 A: *Caragana arborescens*.
+
+---
+
+Q: Nom en **Llatí**?
+
+![](images/helichrysum-italicum.jpg)
+A: *Helichrysum italicum*.
