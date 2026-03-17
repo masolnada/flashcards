@@ -46,3 +46,10 @@ Q: Nom en **Llatí**?
 
 ![](images/galium-aparine.jpg)
 A: *Galium aparine*.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Llatí**?
+
+![](images/caragana-arborescens.jpg)
+A: *Caragana arborescens*.
