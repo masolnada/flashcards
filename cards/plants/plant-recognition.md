@@ -91,3 +91,10 @@ Q: Nom en **Català**?
 
 ![](images/galium-aparine.jpg)
 A: Apegalosa.
+
+---
+
+Q: Nom en **Llatí**?
+
+![](images/caragana-arborescens.jpg)
+A: *Caragana arborescens*.
