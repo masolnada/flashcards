@@ -39,10 +39,3 @@ Q: Nom en **Català**?
 
 ![](images/helichrysum-italicum.jpg)
 A: Maçanella menuda.
----
-# path: cards/plants/plant-recognition.md
-
-Q: Nom en **Llatí**?
-
-![](images/helichrysum-italicum.jpg)
-A: *Helichrysum italicum*.
