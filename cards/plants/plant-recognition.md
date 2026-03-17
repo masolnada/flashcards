@@ -105,3 +105,10 @@ Q: Nom en **Llatí**?
 
 ![](images/helichrysum-italicum.jpg)
 A: *Helichrysum italicum*.
+
+---
+
+Q: Nom en **Llatí**?
+
+![](images/galium-aparine.jpg)
+A: *Galium aparine*.
