@@ -84,3 +84,10 @@ Q: Nom en **Llatí**?
 
 ![](images/veronica-polita.jpg)
 A: *Veronica polita*.
+
+---
+
+Q: Nom en **Català**?
+
+![](images/galium-aparine.jpg)
+A: Apegalosa.
