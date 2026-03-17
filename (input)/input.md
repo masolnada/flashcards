@@ -28,13 +28,6 @@ A: Verònica polida.
 ---
 # path: cards/plants/plant-recognition.md
 
-Q: Nom en **Català**?
-
-![](images/galium-aparine.jpg)
-A: Apegalosa.
----
-# path: cards/plants/plant-recognition.md
-
 Q: Nom en **Llatí**?
 
 ![](images/galium-aparine.jpg)
