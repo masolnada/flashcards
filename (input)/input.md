@@ -35,13 +35,6 @@ A: *Galium aparine*.
 ---
 # path: cards/plants/plant-recognition.md
 
-Q: Nom en **Llatí**?
-
-![](images/caragana-arborescens.jpg)
-A: *Caragana arborescens*.
----
-# path: cards/plants/plant-recognition.md
-
 Q: Nom en **Català**?
 
 ![](images/helichrysum-italicum.jpg)
