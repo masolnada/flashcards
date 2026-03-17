@@ -18,3 +18,17 @@ A: Use the `/remind` command followed by the time. Example: `/remind 6:40`.
 
 Q: What is the main purpose of this tool?
 A: To generate atomic Q&A flashcards from input text and a list of topics.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Català**?
+
+![](images/veronica-polita.jpg)
+A: Verònica polida.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Llatí**?
+
+![](images/veronica-polita.jpg)
+A: *Veronica polita*.
