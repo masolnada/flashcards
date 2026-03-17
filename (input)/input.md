@@ -32,3 +32,17 @@ Q: Nom en **Llatí**?
 
 ![](images/veronica-polita.jpg)
 A: *Veronica polita*.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Català**?
+
+![](images/galium-aparine.jpg)
+A: Apegalosa.
+---
+# path: cards/plants/plant-recognition.md
+
+Q: Nom en **Llatí**?
+
+![](images/galium-aparine.jpg)
+A: *Galium aparine*.
