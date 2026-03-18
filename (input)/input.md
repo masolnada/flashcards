@@ -32,3 +32,18 @@ Q: Nom en **Català**?
 
 ![](images/helichrysum-italicum.jpg)
 A: Maçanella menuda.
+---
+# path: cards/mathematics/algebra/logarithm-properties.md
+
+---
+
+Q: What is the relationship between the logarithm of a fraction and the logarithm of its reciprocal (e.g., log(a/b) vs log(b/a))?
+A: The logarithm of a fraction is the negative of the logarithm of its reciprocal.
+log(a/b) = -log(b/a)
+---
+# path: cards/mathematics/algebra/logarithm-properties.md
+
+Q: How can the power rule for logarithms be used to prove that log(a/b) = -log(b/a)?
+A: By rewriting the fraction as its reciprocal raised to the power of -1: a/b = (b/a)⁻¹.
+Then, applying the power rule log(Mᵖ) = p · log(M):
+log(a/b) = log((b/a)⁻¹) = -1 · log(b/a) = -log(b/a)
