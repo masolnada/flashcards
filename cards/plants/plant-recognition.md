@@ -112,3 +112,10 @@ Q: Nom en **Llatí**?
 
 ![](images/galium-aparine.jpg)
 A: *Galium aparine*.
+
+---
+
+Q: Nom en **Català**?
+
+![](images/helichrysum-italicum.jpg)
+A: Sempreviva Olorosa
